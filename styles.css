@@ -133,12 +133,12 @@
 }
 
 .Card1 .Size div:hover {
-  color: rgb(100, 100, 100);
+  color: whitesmoke;
   background-color: rgb(130, 160, 240);
   transition-duration: 0.5s;
 }
 .Card2 .Size div:hover {
-  color: rgb(100, 100, 100);
+  color: whitesmoke;
   background-color: rgb(154, 214, 179);
   transition-duration: 0.2s;
 }
